@@ -1,6 +1,6 @@
 # Character-Level Language Model using nanoGPT
 
-This project trains and evaluates a character-level language model on the enwik8 dataset using [nanoGPT](https://github.com/karpathy/nanoGPT). We compare a baseline GPT model with a modified version (ModifiedGPT) that includes additional positional embeddings.
+This project trains and evaluates a character-level language model on the enwik8 dataset using [nanoGPT](https://github.com/karpathy/nanoGPT). We compare a baseline GPT model with a modified version (ModifiedGPT) that includes Multi-Scale Positional Encodings, combining both sinusoidal and learned positional embeddings.
 
 ## Table of Contents
 
