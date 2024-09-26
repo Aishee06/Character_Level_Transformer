@@ -17,7 +17,7 @@ batch_size = 64  # Adjust based on your GPU memory
 block_size = 256  # Context length
 
 # Model parameters
-n_layer = 8
+n_layer = 10
 n_head = 8
 n_embd = 512
 dropout = 0.1  # Added some dropout for regularization
